@@ -3,6 +3,8 @@
 
 # In[1]:
 
+#Marilyn Matope R205989X
+#Ropafadzo Mtopa R206531F
 
 from keras.models import load_model
 import sys
